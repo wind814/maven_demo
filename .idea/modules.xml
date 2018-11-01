@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/maven_demo.iml" filepath="$PROJECT_DIR$/.idea/maven_demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring_boot_dubbo_consumer/spring_boot_dubbo_consumer.iml" filepath="$PROJECT_DIR$/spring_boot_dubbo_consumer/spring_boot_dubbo_consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring_boot_dubbo_provider/spring_boot_dubbo_provider.iml" filepath="$PROJECT_DIR$/spring_boot_dubbo_provider/spring_boot_dubbo_provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring_boot_dubbo_service/spring_boot_dubbo_service.iml" filepath="$PROJECT_DIR$/spring_boot_dubbo_service/spring_boot_dubbo_service.iml" />
+    </modules>
+  </component>
+</project>
